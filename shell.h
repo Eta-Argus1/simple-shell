@@ -33,7 +33,7 @@
 #define CYN "36m"
 #define WHI "37m"
 #define B "1;"
-#define BRAND WAY B CYN 
+#define BRAND WAY B CYN
 #define RESET WAY DEF
 
 /*delimiter */
